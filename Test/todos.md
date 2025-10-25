@@ -1,2 +1,2 @@
 [ ] Test 1
-[x] Test 2
+[ ] Test 2
